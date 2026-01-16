@@ -10,7 +10,7 @@ This README contains only the Turkish explanation for simplicity.
 
 
 
-  <p> ## Singleton Pattern
+  <p> 
 
 Singleton Pattern, Unity’de yalnızca tek bir instance’a sahip olan ve
 proje genelinde tüm scriptler tarafından erişilebilen bir tasarım desenidir.

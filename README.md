@@ -2,7 +2,8 @@
 
 
   <h3><a href="https://github.com/AxtForest/UnityDesignPatterns/tree/main/Singletton%20Pattern%20Example">Singletton Pattern</a></h3>
-  <p>  //TR:
+  <p> 
+    //TR:
      Singleton Pattern
      Unity’de yalnızca tek bir instance’a sahip olan ve
      proje genelinde tüm scriptler tarafından erişilebilen bir tasarım desenidir.

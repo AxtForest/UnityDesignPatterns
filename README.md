@@ -61,7 +61,9 @@ Object Pooling sayesinde nesneler yok edilmek yerine pasif hale getirilir ve iht
 - Karmaşıklığın fazla olduğu küçük sistemlerde
   </p>
 
-Before Pooling
+<p>
+  Before Pooling
+</p>
 ![0127(1)](https://github.com/user-attachments/assets/01e402d1-eb1c-4cda-a852-c08bac3b09a0)
 
 

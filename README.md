@@ -8,8 +8,6 @@ This README contains only the Turkish explanation for simplicity.
   <h3><a href="https://github.com/AxtForest/UnityDesignPatterns/tree/main/Singletton%20Pattern%20Example">Singletton Pattern</a></h3>
   
 
-
-
   <p> 
 
 Singleton Pattern, Unity’de yalnızca tek bir instance’a sahip olan ve
@@ -37,12 +35,6 @@ Böylece kod karmaşıklığı azalır ve geliştirme süreci daha yönetilebili
   <h3><a href="https://github.com/AxtForest/UnityDesignPatterns/tree/main/Object%20Pooling%20Pattern/Assets">Object Pooling Pattern</a></h3>
 
 
-
-
-
-
-
-
   <p> 
 
 Object Pooling Pattern, oyun sırasında sıkça oluşturulup yok edilen nesnelerin (mermi, düşman, efekt vb.) önceden oluşturulup tekrar tekrar kullanılmasını sağlayan bir tasarım desenidir.
@@ -59,7 +51,7 @@ Object Pooling sayesinde nesneler yok edilmek yerine pasif hale getirilir ve iht
 ### Ne Zaman Kullanılmamalı?
 - Nadir kullanılan veya tek seferlik objelerde
 - Sayısı çok az ve performans etkisi olmayan yapılarda
-- Karmaşıklığın faydasından fazla olduğu küçük sistemlerde
-- </p>
+- Karmaşıklığın fazla olduğu küçük sistemlerde
+  </p>
 
   

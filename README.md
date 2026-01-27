@@ -73,6 +73,14 @@ Object Pooling sayesinde nesneler yok edilmek yerine pasif hale getirilir ve iht
 
 ![0127(2)](https://github.com/user-attachments/assets/825d53d2-9f53-4433-9e11-5b04394fa0b6)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01e402d1-eb1c-4cda-a852-c08bac3b09a0" width="45%" />
+  <img src="https://github.com/user-attachments/assets/825d53d2-9f53-4433-9e11-5b04394fa0b6" width="45%" />
+</p>
 
+<p align="center">
+  <b>Before Pooling</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>After Pooling</b>
+</p>
 
   

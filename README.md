@@ -35,3 +35,31 @@ Böylece kod karmaşıklığı azalır ve geliştirme süreci daha yönetilebili
 
 
   <h3><a href="https://github.com/AxtForest/UnityDesignPatterns/tree/main/Object%20Pooling%20Pattern/Assets">Object Pooling Pattern</a></h3>
+
+
+
+
+
+
+
+
+  <p> 
+
+Object Pooling Pattern, oyun sırasında sıkça oluşturulup yok edilen nesnelerin (mermi, düşman, efekt vb.) önceden oluşturulup tekrar tekrar kullanılmasını sağlayan bir tasarım desenidir.
+
+Bu desen, Instantiate ve Destroy işlemlerinin maliyetini azaltarak performansı artırır ve özellikle yoğun sahnelerde daha stabil bir oyun deneyimi sunar.
+
+Object Pooling sayesinde nesneler yok edilmek yerine pasif hale getirilir ve ihtiyaç duyulduğunda tekrar aktif edilerek kullanılır.
+
+### Ne Zaman Kullanılmalı?
+- Sık sık oluşturulup yok edilen objelerde (mermi, particle, enemy, UI popup vb.)
+- Performansın kritik olduğu sahnelerde
+- Mobil ve düşük donanımlı platformlarda
+
+### Ne Zaman Kullanılmamalı?
+- Nadir kullanılan veya tek seferlik objelerde
+- Sayısı çok az ve performans etkisi olmayan yapılarda
+- Karmaşıklığın faydasından fazla olduğu küçük sistemlerde
+- </p>
+
+  

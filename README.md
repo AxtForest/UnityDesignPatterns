@@ -6,7 +6,7 @@ This README contains only the Turkish explanation for simplicity.
 
 
 
-  <h3><a href="https://github.com/AxtForest/UnityDesignPatterns/tree/main/Singletton%20Pattern%20Example">Singletton Pattern</a></h3>
+<h3><a href="https://github.com/AxtForest/UnityDesignPatterns/tree/main/Singletton%20Pattern%20Example">Singletton Pattern</a></h3>
 
 
   
@@ -38,7 +38,7 @@ Böylece kod karmaşıklığı azalır ve geliştirme süreci daha yönetilebili
 
 
 
-  <h3><a href="https://github.com/AxtForest/UnityDesignPatterns/tree/main/Object%20Pooling%20Pattern/Assets">Object Pooling Pattern</a></h3>
+<h3><a href="https://github.com/AxtForest/UnityDesignPatterns/tree/main/Object%20Pooling%20Pattern/Assets">Object Pooling Pattern</a></h3>
 
 
 
